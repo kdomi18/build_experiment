@@ -1,0 +1,7 @@
+repos/
+.python-version
+.env
+.DS_Store
+data/**/output/
+__pycache__
+repos/
